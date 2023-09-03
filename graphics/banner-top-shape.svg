@@ -1,0 +1,99 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+                width="80%"
+                height="80%"
+                id="banner-top-shape"
+                viewBox="0 0 556 556"
+              >
+                <defs>
+                  <style>
+                    .cls-1 {
+                      fill: #fff;
+                    }
+                    .cls-2 {
+                    }
+                    .cls-3 {
+                      fill: #4dff99;
+                    }
+                    .cls-4 {
+                      fill: #ffeb56;
+                    }
+                    .cls-5 {
+                      fill: #ff376b;
+                    }
+                    .cls-6 {
+                      fill: #1f1c59;
+                    }
+                  </style>
+                  <clipPath id="clip-path" transform="translate(19.01 18.95)">
+                    <path
+                      id="Group_1"
+                      data-name="Group 1"
+                      class="cls-1"
+                      d="M336.69,272v64.68H272V272ZM272,246V181.42h64.68v64.67H272Zm90.48,116.51V272H427.4V427.28H272V362.37h90.48Zm0-116.51V155.5H272V90.59H427.4V245.86H362.49ZM272,453.2H453.08V272H518V518.1H272ZM518,246H453.08V64.91H272V0H518ZM246,362.49V427.4H90.71V272h64.91v90.48Zm-64.68-25.8V272H246v64.68Zm0-90.71V181.42H246v64.67H181.3Zm-25.68-90.36v90.47H90.71V90.71H246.09v64.91ZM64.91,64.91V246H0V0H246V64.91ZM0,272H64.91V453.08H246v65H0Z"
+                    ></path>
+                  </clipPath>
+                </defs>
+                <rect
+                  mask="url(#myMask)"
+                  id="banner-top-purple-sq"
+                  data-name="Rectangle Copy 4"
+                  fill="#6E38E5"
+                  width="556"
+                  height="556"
+                  style="opacity: 0.8; fill: rgb(110, 56, 229)"
+                ></rect>
+                <g mask="url(#myMask)" id="Layer_2" data-name="Layer 2">
+                  <g id="Layer_1-2" data-name="Layer 1">
+                    <g class="cls-2">
+                      <g
+                        id="color-sq"
+                        data-name="Group Copy"
+                        data-svg-origin="278 278"
+                        style="transform-origin: 0px 0px"
+                        transform="matrix(1,0,0,1,0,0)"
+                      >
+                        <rect
+                          id="Rectangle"
+                          class="cls-3"
+                          width="270"
+                          height="270"
+                        ></rect>
+                        <rect
+                          id="Rectangle_Copy_2"
+                          data-name="Rectangle Copy 2"
+                          class="cls-4"
+                          y="270"
+                          width="270"
+                          height="270"
+                        ></rect>
+                        <rect
+                          id="Rectangle_Copy"
+                          data-name="Rectangle Copy"
+                          class="cls-5"
+                          x="270"
+                          width="270"
+                          height="270"
+                        ></rect>
+                        <rect
+                          id="Rectangle_Copy_3"
+                          data-name="Rectangle Copy 3"
+                          class="cls-6"
+                          x="270"
+                          y="270"
+                          width="270"
+                          height="270"
+                        ></rect>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <mask id="myMask">
+                  <path
+                    id="banner-top-shape-mask-path"
+                    data-name="Group 1"
+                    class="cls-1"
+                    d="M336.69,272v64.68H272V272ZM272,246V181.42h64.68v64.67H272Zm90.48,116.51V272H427.4V427.28H272V362.37h90.48Zm0-116.51V155.5H272V90.59H427.4V245.86H362.49ZM272,453.2H453.08V272H518V518.1H272ZM518,246H453.08V64.91H272V0H518ZM246,362.49V427.4H90.71V272h64.91v90.48Zm-64.68-25.8V272H246v64.68Zm0-90.71V181.42H246v64.67H181.3Zm-25.68-90.36v90.47H90.71V90.71H246.09v64.91ZM64.91,64.91V246H0V0H246V64.91ZM0,272H64.91V453.08H246v65H0Z"
+                  ></path>
+                </mask>
+              </svg>
